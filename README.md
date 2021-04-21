@@ -1,5 +1,5 @@
 # Sports-App 
-ios application using swift
+ios application
 
 App to display sports, leagues in specific sport, upcoming events and teams details
 Using:
